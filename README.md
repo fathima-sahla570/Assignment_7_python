@@ -2,7 +2,7 @@ This assignment focuses on using NumPy and Pandas, which are essential Python li
 It consists of seven exercises, each testing different functionalities related to arrays, series, and dataframes. The total score for the assignment is 10 points,
 distributed based on the complexity of each task.
 
-Exercise 1: Creating and Reshaping a NumPy Array (Score: 1)
+Exercise 1: Creating and Reshaping a NumPy Array 
 Task:
 Create a NumPy array with numbers from 1 to 10.
 Reshape the array into a 2x5 matrix (2 rows and 5 columns).
@@ -10,13 +10,12 @@ Concepts Used:
 Creating a NumPy array using numpy.arange()
 Reshaping an array using .reshape()
  5 columns
-Exercise 2: Extracting Elements from a NumPy Array (Score: 1)
-Task:
+Exercise 2: Extracting Elements from a NumPy Array 
 Create a NumPy array with numbers from 1 to 20.
 Extract elements between index 5 and 15.
 Concepts Used:
 NumPy indexing and slicing
-Exercise 3: Creating and Modifying a Pandas Series (Score: 2)
+Exercise 3: Creating and Modifying a Pandas Series
 Task:
 Create a Pandas Series using a dictionary with fruit names and their counts.
 Add a new item ('pears': 4) to the series.
@@ -24,7 +23,7 @@ Concepts Used:
 Creating a Pandas Series
 Updating a Series by adding a new element
 
-Exercise 4: Creating a Pandas DataFrame (Score: 2)
+Exercise 4: Creating a Pandas DataFrame
 Task:
 Create a DataFrame with the columns:
 name
